@@ -1,0 +1,12 @@
+{
+  "name": "tdd_ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/awer000/tdd_ts.git",
+  "author": "awer000 <awer000@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.0.0",
+    "ts-node": "^8.0.2"
+  }
+}
